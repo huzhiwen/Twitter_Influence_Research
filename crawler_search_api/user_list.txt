@@ -1,0 +1,65 @@
+Screen name, ID
+realDonaldTrump, 25073877
+mike_pence, 22203756
+IvankaTrump, 52544275
+PressSec, 818927131883356161
+WhiteHouse, 822215673812119553
+SenateGOP, 14344823
+cnnbrk, 428333
+CNN, 759251
+GOP, 11134252
+nytimes, 807095
+PolitiFact, 8953122
+nprpolitics,5741722
+breakingpol,510526745
+AP_Politics,426802833
+NYDNPolitics,19358607
+nytpolitics,14434063
+PoliticsNation,364423298
+davidfrum, 18686907
+Evan_McMullin,1051396218
+washingtonpost,2467791
+GDouglasJones,239548513
+MooreSenate,856991644134068224
+GrizzleMeister,874636442290577410
+SenKamalaHarris,803694179079458816
+ABC,28785486
+WarOnDumb,96505646
+TIME,14293310
+gdebenedetti,230450027
+FoxNews,1367531
+aldotcom,14528874
+chuckwoolery,462104542
+Corey Dukes,15972271
+Emmy Ruiz,23394667
+Jennifer Palmieri,21867341
+Joel Benenson,1563164448
+John Podesta,1071777608
+Jorge Neri,136000161
+John Anzalone,44651829
+LaDavia Drane,535932676
+Maya Harris,2314055840
+Mike Vlacich,244051583
+Marlon Marshall,277719684
+Simone Ward,1912393928
+Joel Benenson,1563164448
+Cornell Belcher,461509699
+David Axelrod,244655353
+Dan Pfeiffer,2922928743
+David Plouffe,1515258254
+Eric Holder,366176456
+Henry De Sio,357197791
+Jason Green,46626243
+Josh Earnes,821511862881845248
+Matt Rodriguez,19098001
+Penny Pritzker,308573576
+Pete Giangreco,14248714
+Patrick Gaspard,329866683
+Shauna Daly,117465801
+Christina Reynolds,124763921
+Hari Sevugan,111053300
+Tommy Vietor,155784594
+Cody Keenan,18509818
+Neera Tanden,125453969
+Jason Furman,279036722
+Stephanie Cutter,114547989
